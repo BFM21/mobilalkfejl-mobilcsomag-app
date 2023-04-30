@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "290335946208",
+    "project_id": "mobil-alkfej-projekt",
+    "storage_bucket": "mobil-alkfej-projekt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290335946208:android:b413d5a7b6c3d1f68c6785",
+        "android_client_info": {
+          "package_name": "hu.mobilalkfej.mobilcsomag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290335946208-tdjvu0eujss0e3kc3uqtb7p9ssua99c8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hu.mobilalkfej.mobilcsomag",
+            "certificate_hash": "b0d6128f61e23bcf6db170f636f78d6996ff5431"
+          }
+        },
+        {
+          "client_id": "290335946208-u1q6psr86vncia9rr95ua9a2i33else5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkcTS4CFwH4Hc9NNmcFZF7KxF1DOylLfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290335946208-u1q6psr86vncia9rr95ua9a2i33else5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

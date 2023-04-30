@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_primary_day">#042642</color>
+    <color name="color_primary_variant_day">#0A6C98</color>
+    <color name="color_on_primary_day">#FFFFFF</color>
+    <color name="color_secondary_day">#03A9F4</color>
+    <color name="color_secondary_variant_day">#0A6C98</color>
+    <color name="color_primary_night">#03A9F4</color>
+    <color name="color_primary_variant_night">#0A6C98</color>
+    <color name="color_on_primary_night">#0A3D65</color>
+    <color name="color_secondary_night">#03A9F4</color>
+    <color name="color_secondary_variant_night">#0A6C98</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF0000</color>
+</resources>

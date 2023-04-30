@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Mobilcsomag" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/color_primary_day</item>
+        <item name="colorPrimaryVariant">@color/color_primary_variant_day</item>
+        <item name="colorOnPrimary">@color/color_on_primary_day</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/color_secondary_day</item>
+        <item name="colorSecondaryVariant">@color/color_secondary_variant_day</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/cardview_dark_background</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
