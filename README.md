@@ -9,6 +9,8 @@ Az alkalmazás, egy vagy több telefonszámhoz tartozó mobilcsomagok kezelésé
 
  - saját csomag létrehozása
  - csomag telefonszámhoz csatolása
- - felhasználókezelés (login/register/logout)
- - CRUD (teljes CRUD felhsználó esetén, saját csomagoknál létrehozás és törlés)
-- regisztráció után az alkalmazás értesítést küld (ha nem jelenik meg az értesítés, a beállításoknál kell engedélyezni)
+ - a felhasználó tud regisztrálni, be- és ki tud lépni fiókjából, valamint törölni is tudja ezt
+ - a felhasználó megtekintheti és módosíthatja saját adatait
+ - a felhasználó megtekintheti a csomagok adtait
+ - a felhasználó a törölheti az általa létrehozott csomagokat (Profil -> Csomagok)
+ - regisztráció után az alkalmazás értesítést küld (ha nem jelenik meg az értesítés, a beállításoknál kell engedélyezni)
