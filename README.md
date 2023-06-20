@@ -1,5 +1,6 @@
 # Mobilcsomag alkalmzás
 
+#A Firebase backend megszűnt!!!
 
 ## Az alkalmazás célja
 
